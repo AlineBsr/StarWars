@@ -9,12 +9,11 @@ body{
 }
 
 .starwars{
-    /* width:50%; */
+    width:50%;
     margin:auto;
     display: flex;
     flex-direction: column;
     transform: perspective(400px) rotateX(25deg); 
-    /* border:10px solid green; */
 }
 
 article h1 { color:blue; }
@@ -33,6 +32,6 @@ article p{
 }
 
 @keyframes anim-1{
-      0% { transform: translateY(80%); }
+      0% { transform: translateY(60%); }
     100% { transform: translateY(-100%); }
 }
