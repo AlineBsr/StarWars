@@ -24,7 +24,7 @@ article p{
     color:yellow;
 }
 
-#SWContent{ animation: anim-1 65s linear infinite; }
+#SWContent{ animation: anim-1 35s linear infinite; }
 
 .anim-1 h1 p{
     overflow: hidden;
